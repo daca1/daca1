@@ -2,7 +2,7 @@
 
 CS student building full-stack apps and OOP systems projects. Comfortable moving between low-level C, Java-based OOP design, and a full JavaScript/SQL web stack.
 
-**Tech I work with:** C · Java · JavaScript · Node.js · Express · MySQL · SQL · HTML/CSS
+**Tech I work with:** C/C#/C++ · Java · JavaScript · Node.js · Express · MySQL · SQL · HTML/CSS
 
 #### Featured projects
 
